@@ -2,6 +2,7 @@ name: folk
 favicon: null
 layout_spectrum: 0.2958285945933312
 typography_spectrum: 0.7163869561627507
+title: Folk
 cta:
   domain: null
   bucket: null
